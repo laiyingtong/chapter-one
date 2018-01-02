@@ -30,4 +30,4 @@ This is a book on the lessons learnt and best practices derived from these data 
 3. Facilitate sharing and mass collaboration
 4. Reproducible pipeline, from environment to code, data analyses, documentation and products
 5. Requirements traceability
-6. Meant to be a guide rather than a dogmatic approach for future DataKind Data Ambassadorss, Project Managers and Data Experts as well as anyone involved in data projects
+6. Meant to be a guide rather than a dogmatic approach for future DataKind Data Ambassadors, Project Managers and Data Experts as well as anyone involved in data projects
